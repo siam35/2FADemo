@@ -1,0 +1,6 @@
+D:\2FA SJ\TWOFAApi\obj\Debug\net6.0\User.Management.Service.GlobalUsings.g.cs
+D:\2FA SJ\TWOFAApi\obj\Debug\net6.0\User.Management.Service.csproj.AssemblyReference.cache
+D:\2FA SJ\TWOFAApi\obj\Debug\net6.0\User.Management.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\2FA SJ\TWOFAApi\obj\Debug\net6.0\User.Management.Service.AssemblyInfoInputs.cache
+D:\2FA SJ\TWOFAApi\obj\Debug\net6.0\User.Management.Service.AssemblyInfo.cs
+D:\2FA SJ\TWOFAApi\obj\Debug\net6.0\User.Management.Service.csproj.CoreCompileInputs.cache

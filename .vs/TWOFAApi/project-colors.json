@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6efd39ee-baa7-466c-92a4-86c30b672fb7": {
+      "ProjectGuid": "6efd39ee-baa7-466c-92a4-86c30b672fb7",
+      "DisplayName": "TWOFAApi",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "bb3df0c1-ae40-42fb-a935-bf6674b4b83d": {
+      "ProjectGuid": "bb3df0c1-ae40-42fb-a935-bf6674b4b83d",
+      "DisplayName": "User.Management.Service",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
